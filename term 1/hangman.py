@@ -1,4 +1,5 @@
 import random
+#learning how to pull from git hub
 HANGMAN = (
 """
 --------
